@@ -1,1 +1,6 @@
-.last_version
+# Created by .ignore support plugin (hsz.mobi)
+# IntelliJ project files
+*.iml
+.gitignore
+
+/.idea/
